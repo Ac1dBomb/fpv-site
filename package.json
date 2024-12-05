@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@eslint/config-array": "^0.19.0",
+    "@eslint/object-schema": "^2.1.4",
+    "lru-cache": "^11.0.2"
+  }
+}
